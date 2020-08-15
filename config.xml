@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gmail.sagaselisandro"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Crazy Racer</name>
+
+  <description>
+      Primeiro jogo teste da turma de gew
+  </description>
+
+  <author href="https://build.phonegap.com" email="sagaselisandro@gmail.com">
+      eSfreitas
+  </author>
+    <icon src="icon.png" />
+</widget>
